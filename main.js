@@ -35,6 +35,10 @@ scene.add( dLight );
 const directionalLightHelper = new THREE.DirectionalLightHelper( dLight, 1, 0xfcc203 ); // attributes: light, size, color
 scene.add( directionalLightHelper );
 
+// Camera helper
+// const camHelper = new THREE.CameraHelper( camera );
+// scene.add( camHelper );
+
 
 // Shadow
 renderer.shadowMap.enabled = true;
