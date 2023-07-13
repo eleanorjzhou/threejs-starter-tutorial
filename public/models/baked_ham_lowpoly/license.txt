@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baked ham (lowpoly)
+* source:	https://sketchfab.com/3d-models/baked-ham-lowpoly-afe78859d8444319a2984a000866f659
+* author:	Zuckergelee (https://sketchfab.com/knorke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baked ham (lowpoly)" (https://sketchfab.com/3d-models/baked-ham-lowpoly-afe78859d8444319a2984a000866f659) by Zuckergelee (https://sketchfab.com/knorke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
