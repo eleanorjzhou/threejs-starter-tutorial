@@ -97,3 +97,26 @@ const directionalLightHelper = new THREE.DirectionalLightHelper( dLight, 1, 0xfc
 scene.add( directionalLightHelper );
 ```
 
+## Helpers
+When developing the scene, it's easier if we use the helpers to measure the position of objects, plane, light, shadow, and the camera:
+```
+// Axes helper
+const axesHelper = new THREE.AxesHelper(50);
+scene.add(axesHelper);
+
+// Grid helper
+const gridHelper = new THREE.GridHelper(5);
+scene.add(gridHelper);
+
+// Directional light helper
+const directionalLightHelper = new THREE.DirectionalLightHelper( dLight, 1, 0xfcc203 ); // attributes: light, size, color
+scene.add( directionalLightHelper );
+
+// Shadow helper
+const dLightShadowHelper = new THREE.CameraHelper(dLight.shadow.camera); 
+scene.add(dLightShadowHelper);
+
+// Camera helper
+const camHelper = new THREE.CameraHelper( camera );
+scene.add( camHelper );
+```
