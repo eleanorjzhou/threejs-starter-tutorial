@@ -42,7 +42,7 @@ Contains textures, audio, and 3D models
 ### Set up local development 
 
 1. Install `Node.js` to load manage dependencies and run build tool: 
-2. install `three.js` and the build tool Vite: `npm install --save three` and `npm install --save dev vite`
+2. install `three.js` and the build tool Vite: `npm install --save three` and `npm install --save dev vite` or `npx vite`
 3. To serve the app, simply run `npx vite`
 
 
